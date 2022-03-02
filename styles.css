@@ -11,11 +11,14 @@ body{
 }
 .header{
     grid-area:1/2/2/3;
+    display: flex;
+    flex-flow: column nowrap;
+    padding-top:25px;
 }
 img{
     width: 100%;
     height: auto;
-    max-width: 64px;
+    max-width: 48px;
 }
 .main{
     grid-area: 2/2/3/3;
@@ -25,4 +28,44 @@ footer{
 }
 ul{
     list-style-type: none;
+}
+.search-profile-icon{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    justify-content: space-between;
+}
+.profile-button{
+    display: flex;
+    padding-right: 50px;
+    gap:25px;
+    align-items: center;
+}
+.profile-nav{
+    display: flex;
+    gap:25px;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.handle{
+    display: flex;
+    flex-flow:row nowrap;
+    align-items: center;
+    gap:25px;
+}
+.nav{
+    padding-right: 50px;
+}
+.nav>ul{
+    display: flex;
+    gap:25px;
+    flex-flow: row nowrap;
+
 }
