@@ -17,3 +17,12 @@ The Odin Project Link : [Link](https://www.theodinproject.com/paths/full-stack-j
 2. Another major still, working on is the lack of design standards. I plan to give a the BEM styling guide a shot in hopes of improving my CSS files.
 
 Live Link : [Here](https://ankur26.github.io/admin-dashboard-page/)
+
+This was what was given as a reference design - credit to the Odin Project
+<br>
+<img src="readme_assets/dashboard_project.png">
+<br>
+This is what I have done in my final design given that the project allows a bit of creative liberty
+<br>
+<img src="readme_assets/output.png">
+<br>
