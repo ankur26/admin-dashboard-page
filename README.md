@@ -9,4 +9,3 @@ In this project we are creating an admin dashboard using more advanced CSS and H
 3. Positioning grids and some advanced grid properties
 4. What CSS grid offers over FlexBox and where should we use which.
 
-**This is Work in Progress : Live deployment coming soon** 
