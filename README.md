@@ -20,7 +20,7 @@ Live Link : [Here](https://ankur26.github.io/admin-dashboard-page/)
 
 This was what was given as a reference design - credit to the Odin Project
 <br>
-<img src="readme_assets/dashboard_project.png">
+<img src="readme_assets/dashboard-project.png">
 <br>
 This is what I have done in my final design given that the project allows a bit of creative liberty
 <br>
